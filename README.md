@@ -1,4 +1,4 @@
-# summerintership2024_D23IT168
+# summerintership2024_22IT142
 
 <h2>4th Sem Summer Internship</h2>
 # 🌟Summer Internship 2024 - Project Showcase 🌟
@@ -39,7 +39,7 @@ The internsip period is of 4 weeks with focus on Labs and Practical Insights.
 
 ## 2️⃣ week 2
 
-### *4th June 2024*
+### *3th June 2024*
 
 ### *Here is the Outine of Week-2:*
 1. ADVANCED Amazon Keyword Research w/ Brett Bercaw (KW Dominator Boosted)
@@ -63,7 +63,7 @@ was supposed to explore and learn new services in brief by my own
 
 ## 3️⃣ week 3
 
-### 12th June 2024
+### 10th June 2024
 
 ### Here is the Outline of Week-3:
 1. Have AI Write Premium Quality Bullet Points FOR YOU!
@@ -86,7 +86,7 @@ was supposed to explore and learn new services in brief by my own
 
 ## 4️⃣ week 4
 
-### *21st June 2024*
+### *17st June 2024*
 
 ### *Here is the Outline of Week-4:*
 1. Get 5%+ More Sales TODAY With This 1% Hack
